@@ -8,7 +8,7 @@
 
 <h2>Hiii 👋🏻, Myself Samya Deb Biswas</h2>
 
-<h3>🚀 Blockchain Developer | Web3 Enthusiast</h3>
+<h3>🖥️ Blockchain Developer | Web3 Enthusiast</h3>
 
 </div>
 
