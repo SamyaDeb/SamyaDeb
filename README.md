@@ -11,12 +11,12 @@
 
 </div>
 
-<p>
+<h4>
 💻 Currently diving deep into Web3 <br><br>
 👯 Open to collaborate on Web Projects <br><br>
 🤝 Looking for Internships <br><br>
 ⚡ Fun fact: Hackathons are my creative fuel.
-</p>
+</h4>
 
 ---
 
