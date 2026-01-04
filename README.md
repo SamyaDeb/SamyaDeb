@@ -1,4 +1,4 @@
-<div align="center"># 💫 About Me:</div>
+<div align="center"><h1>💫 About Me:</h1></div>
 <div align="center">
 <h2>Hiii 👋🏻, Myself Samya Deb Biswas</h2>
 <h3>🖥️ Blockchain Developer | Web3 Enthusiast</h3>
